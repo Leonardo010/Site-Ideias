@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+:root{
+    --bege_estranho: #A68F63;
+    --bege_claro: #D9C49C;
+    --marrom_claro: #8C6B42;
+    --bege_escuro: #BFA688;
+    --marrom_escuro: #BFA688;
+
+    --fonte-padrao: Arial, Verdana, Heveltica, sans-serif
+}
+
+body{
+    background-color: var(--bege_claro);
+}
